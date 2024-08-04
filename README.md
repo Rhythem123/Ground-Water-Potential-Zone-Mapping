@@ -30,9 +30,11 @@ Results
 Composite Groundwater Potential Map: Categorized into very low, low, moderate, high, and very high groundwater potential zones.
 
 Conclusion
+
 Assessment of groundwater potential is vital for the effective and efficient management of water resources. This study employs Geographic Information System (GIS), Remote Sensing Technology, and Weightage Analysis to identify groundwater potential zones by integrating various thematic layers, such as geology, geomorphology, slope, soil, topographic wetness index, drainage density, land use/land cover, and lineament density of Mewat district, Haryana, India. The resulting groundwater potential map serves as a base for planners in water resource management and land use planning.
 
 Future Scope
+
 The project aims to enhance the planning and management of groundwater resources to ensure conservation for future generations. This involves continuously updating and refining the groundwater potential maps and incorporating new data and advanced technologies.
 
 Repository Contents
